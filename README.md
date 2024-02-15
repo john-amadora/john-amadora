@@ -1,10 +1,15 @@
 Aspriring Electronics Engineer. 
 
 Interests: 
+
 Hardware development
+
 Data Science
+
 AI 
+
 Embedded Systems
+
 IC Design
 
 <!---
